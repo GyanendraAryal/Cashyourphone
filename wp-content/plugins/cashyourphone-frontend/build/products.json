@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13",
+    "image": "/iphone13.jpg",
+    "price": 65000,
+    "condition": "new",
+    "feature": "128GB • 6 Months Warranty • Box Pack"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S23",
+    "image": "/s23.jpg",
+    "price": 90000,
+    "condition": "new",
+    "feature": "8GB/256GB • Brand New • Box Pack"
+  },
+  {
+    "id": 3,
+    "name": "OnePlus 12",
+    "image": "/oneplus12.jpg",
+    "price": 82000,
+    "condition": "new",
+    "feature": "12GB/256GB • Fresh Seal Pack"
+  },
+  {
+    "id": 4,
+    "name": "iPhone 14 Plus",
+    "image": "/iphone14plus.jpg",
+    "price": 105000,
+    "condition": "new",
+    "feature": "128GB • Official Warranty"
+  },
+
+  {
+    "id": 5,
+    "name": "Samsung Galaxy S21",
+    "image": "/s21.jpg",
+    "price": 45000,
+    "condition": "like-new",
+    "feature": "8GB/128GB • 95% Condition • With Charger"
+  },
+  {
+    "id": 6,
+    "name": "iPhone 12",
+    "image": "/iphone12.jpg",
+    "price": 48000,
+    "condition": "like-new",
+    "feature": "128GB • 90% Battery • Original Display"
+  },
+  {
+    "id": 7,
+    "name": "OnePlus 9",
+    "image": "/oneplus9.jpg",
+    "price": 34000,
+    "condition": "like-new",
+    "feature": "8GB/128GB • 93% Fresh Condition"
+  },
+  {
+    "id": 8,
+    "name": "Vivo V25",
+    "image": "/v25.jpg",
+    "price": 28000,
+    "condition": "like-new",
+    "feature": "8GB RAM • Excellent Condition • Lightly Used"
+  },
+
+  {
+    "id": 9,
+    "name": "OnePlus 9 Pro",
+    "image": "/oneplus9pro.jpg",
+    "price": 38000,
+    "condition": "refurbished",
+    "feature": "12GB/256GB • Refurbished Certified • Warranty"
+  },
+  {
+    "id": 10,
+    "name": "iPhone 11",
+    "image": "/iphone11.jpg",
+    "price": 30000,
+    "condition": "refurbished",
+    "feature": "64GB • 85% Battery • Refurbished"
+  },
+  {
+    "id": 11,
+    "name": "Redmi Note 10 Pro",
+    "image": "/note10pro.jpg",
+    "price": 18000,
+    "condition": "refurbished",
+    "feature": "6GB RAM • Box Pack"
+  },
+  {
+    "id": 12,
+    "name": "Oppo F19 Pro",
+    "image": "/f19pro.jpg",
+    "price": 20000,
+    "condition": "refurbished",
+    "feature": "8GB RAM • Tested & Certified"
+  },
+
+  {
+    "id": 13,
+    "name": "iPhone X",
+    "image": "/iphonex.jpg",
+    "price": 22000,
+    "condition": "pre-owned",
+    "feature": "64GB • 82% Battery Health"
+  },
+  {
+    "id": 14,
+    "name": "Samsung A52",
+    "image": "/a52.jpg",
+    "price": 20000,
+    "condition": "pre-owned",
+    "feature": "6GB RAM • Great Condition"
+  },
+  {
+    "id": 15,
+    "name": "Poco X3 Pro",
+    "image": "/pocox3.jpg",
+    "price": 17000,
+    "condition": "pre-owned",
+    "feature": "8GB RAM • Fully Working"
+  },
+  {
+    "id": 16,
+    "name": "Oppo A31",
+    "image": "/a31.jpg",
+    "price": 12000,
+    "condition": "pre-owned",
+    "feature": "4GB RAM • Minor Scratches"
+  }
+]
